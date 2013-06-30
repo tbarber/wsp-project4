@@ -14,7 +14,7 @@ nav {
 /* Layout Large Screens (default for older browsers) */
 
 header { height: 275px; background: url(../images/pops.jpg) no-repeat right 0px; }
-header a.logo { width: 150px; height: 85px; top: 28px; right: 30px; background-image: url(../images/logo_large.png); }
+header a.logo { width: 150px; height: 85px; top: 28px; right: 30px; background-image: url(../images/pop_large.png); }
 
 article { padding: 60px 20px 10px 20px; }
 

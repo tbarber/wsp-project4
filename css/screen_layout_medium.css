@@ -10,7 +10,7 @@ header {
 header a.logo {
 	width: 115px; height: 70px;
 	top: 20px; right: 20px;
-	background-image: url(../images/logo_medium.png);
+	background-image: url(../images/pop_medium.png);
 }
 
 nav {  top: 200px; }

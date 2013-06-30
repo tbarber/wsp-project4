@@ -11,7 +11,7 @@ header {
 header a.logo {
 	width: 105px; height: 40px;
 	top: 16px; right: 15px;
-	background-image: url(../images/logo_small.png);
+	background-image: url(../images/pop_small.png);
 }
 
 article { padding: 20px 20px 10px 20px; }
